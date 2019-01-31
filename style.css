@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+h1 {
+    color: #583c08;
+    font-family: ZCOOL KuaiLe;
+}
+
+body {
+   background-color: lightblue;
+    font-family: ZCOOL  KuaiLe;
+    margin-top: auto;
+}
+
+
+/********* left sidebar****/
+#leftcol{
+    background-color: aqua;
+    width: 15em;
+    height: 351vh;
+}
+
+#profile-pic{
+    border-radius: 25%;
+    margin-left: 20;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+
+/********** Work experience styling*****/
+ .section-head{
+    color: blue;
+     border-bottom-style: dashed;
+}
+
+
+/*************education styling***********/
+.education {
+    color: blueviolet;
+    border-bottom-style: dashed;
+}
+
+/**********seminar styling*******/
+.seminars {
+    color: darkorchid;
+    border-bottom-style: dashed;
+}
+
+/*************Research styling*******/
+.research{
+color: brown;
+    border-bottom-style: dashed;
+}
+/*********background*********/
+.background{
+    color: salmon;
+    font-size: 25;
+    border-bottom-style: dashed;
+}
+
+/************** reference**********/
+.reference{
+    color: darkblue;
+    font-size: 25;
+    border-bottom-style: dashed
+
+}
+
+/*******profile name********/
+#pogi {
+    margin-left: 30;
+    font-size: 20;
+}
+
+/********reference text******/
+#referencetext {
+    margin-left: 20;
+}
+
+/************surname********/
+.surname {
+color: orange;
+}
+
