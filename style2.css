@@ -1,0 +1,353 @@
+/*************second page*************/
+/************Background1*************/
+
+h1 {
+    
+text-align:center;
+}
+
+
+/************Second page*************/
+.secondpage {
+background-image: url(heart.gif);
+}
+#mother{
+ position: fixed;
+  bottom: 5%;
+  right: 5%; 
+opacity: 0.5; 
+}
+#mother1{
+ position: absolute;
+  top: 0%;
+  left: 10%; 
+   opacity: 0.5; 
+}
+#back{
+    position:fixed;
+  bottom: 0%;
+  left: 0%; 
+   opacity: 0.4; 
+}
+#heart {
+  position: relative;
+}
+
+.row2{
+ color: orange;
+ position: absolute;
+  top: 5%;
+  left: 48%;
+}
+.centered1 {
+  color: orange;
+  position: absolute;
+  top: 10%;
+  left: 53%;
+  transform: translate(-50%, -50%);
+}
+
+.centered2 {
+  color: orange;
+  position: absolute;
+  top: 19%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.centered3 {
+  color: orange;
+  position: absolute;
+  top: 30%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+
+.centered4 {
+  color: orange;
+  position: absolute;
+  top: 40%;
+  left: 40.4%;
+  transform: translate(-50%, -50%);
+}
+.centered5 {
+  color: orange;
+  position: absolute;
+  top: 48.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered6 {
+  color: orange;
+  position: absolute;
+  top: 67.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered7 {
+  color: orange;
+  position: absolute;
+  top: 90.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+
+.centered8 {
+  color: orange;
+  position: absolute;
+  top: 112.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered9 {
+  color: orange;
+  position: absolute;
+  top: 133.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+
+.centered10 {
+  color: orange;
+  position: absolute;
+  top: 145.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered11 {
+  color: orange;
+  position: absolute;
+  top: 151.5%;
+  left: 57.6%;
+  transform: translate(-50%, -50%);
+}
+.centered12 {
+  color: orange;
+  position: absolute;
+  top: 164.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered13 {
+  color: orange;
+  position: absolute;
+  top: 188.5%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+.centered14 {
+  color: orange;
+  position: absolute;
+  top: 205.5%;
+  left: 57.6%;
+  transform: translate(-50%, -50%);
+}
+.centered15 {
+  color: orange;
+  position: absolute;
+  top: 208%;
+  left: 57.6%;
+  transform: translate(-50%, -50%);
+}
+/****************main page***************/
+.mainpage {
+    background-color: aliceblue;
+  
+}
+
+#loveletter{
+    position: absolute;
+  top: 30%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+ul{
+position: absolute;
+  top: 38%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+/***********************front page*************/
+.frontpage{
+    background-image: url(father.jpg);
+}
+
+
+
+/*******************intro***************/
+.intropage{
+background-image: url(back.jpeg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+#letter{
+    position: absolute;
+  top: 58%;
+  left: 58.3%;
+  transform: translate(-50%, -50%);
+}
+#frame{
+     position: absolute;
+  top: 57%;
+  left: 60.8%;
+    opacity: 0.3;
+  transform: translate(-50%, -50%);
+}
+/********************third page***********************/
+.thirdpage{
+    background-image: url(father.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    
+}
+.centered16 {
+  position: absolute;
+  top: 5%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.centered17 {
+  position: absolute;
+  top: 8%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.centered18 {
+  position: absolute;
+  top: 20%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.centered19 {
+  position: absolute;
+  top: 37%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.centered20 {
+  position: absolute;
+  top: 46%;
+  left: 54.5%;
+  transform: translate(-50%, -50%);
+}
+.centered21 {
+  position: absolute;
+  top: 56%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.centered22 {
+  position: absolute;
+  top: 4%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered23{
+position: absolute;
+    top: 7%;
+    left: 14.8%;
+    transform: translate(-50%, -50%);
+}
+.centered24 {
+  position: absolute;
+  top: 10%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered25{
+position: absolute;
+    top: 13%;
+    left: 14.25%;
+    transform: translate(-50%, -50%);
+}
+.centered26 {
+  position: absolute;
+  top: 16%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered27{
+position: absolute;
+    top: 19%;
+    left: 14.1%;
+    transform: translate(-50%, -50%);
+}
+.centered28 {
+  position: absolute;
+  top: 22%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered29 {
+  position: absolute;
+  top: 25%;
+  left: 13%;
+  transform: translate(-50%, -50%);
+}
+.centered30 {
+  position: absolute;
+  top: 28%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered31 {
+  position: absolute;
+  top: 31%;
+  left: 15.89%;
+  transform: translate(-50%, -50%);
+}
+.centered32 {
+  position: absolute;
+  top: 34%;
+  left: 3%;
+  transform: translate(-50%, -50%);
+}
+.centered33 {
+  position: absolute;
+  top: 37%;
+  left: 20.2%;
+  transform: translate(-50%, -50%);
+}
+/**************loveletter************/
+.loveletter{
+    background-image: url(lovers.gif);
+    background-repeat: no-repeat;
+    background-position: % 50%;
+    background-size: cover;
+}
+
+.centered34 {
+  position: absolute;
+  top: 25%;
+  right: 40.2%;
+  transform: translate(-50%, -50%);
+}
+.centered35 {
+  position: absolute;
+  top: 34%;
+  left: 68% ;
+  transform: translate(-50%, -50%);
+}
+.centered36 {
+  position: absolute;
+  top: 50%;
+  left: 68% ;
+  transform: translate(-50%, -50%);
+}
+.centered37 {
+  position: absolute;
+  top: 60%;
+  left: 68% ;
+  transform: translate(-50%, -50%);
+}
+.centered38 {
+  position: absolute;
+  top: 65%;
+  left: 68% ;
+  transform: translate(-50%, -50%);
+}
